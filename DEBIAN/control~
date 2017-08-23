@@ -1,9 +1,0 @@
-Package: SCP-Facil
-Version: 0.8
-Section: net
-Priority: optional
-Architecture: all
-Depends: zenity, nmap
-Installed-Size: 100
-Maintainer: Sidnei Weber <sidnei.weber@gmail.com>
-Description: Programa de envio de arquivos remotamente para outras máquinas de maneira simples e intuitiva (usando o protocolo scp).
